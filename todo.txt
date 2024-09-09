@@ -1,0 +1,3 @@
+-DONE Sign up functionality
+-DONE Log out functionality
+-log in functionality
